@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/lawywissam-ops/Dummy-iOS-Remover/main/releases/Dummy.ipa</string>
+                    <string>https://github.com/lawywissam-ops/Dummy-iOS-Remover/releases/download/Huh/Dummy.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -28,4 +28,4 @@
         </dict>
     </array>
 </dict>
-</plist>
+</plist> Soccer
